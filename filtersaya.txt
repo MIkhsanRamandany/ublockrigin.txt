@@ -1,0 +1,649 @@
+! 2022-11-02 https://www.youtube.com
+www.youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope
+! 2022-11-02 https://www.youtube.com
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+www.youtube.com###description-inline-expander
+!*$subdocument,third-party,domain=~youtube.com|~google.com|~goo.gl|~youtu.be
+
+
+!*$subdocument,3p,domain=~goo.gl|~google.com|~youtu.be|~youtube.com,badfilter
+
+
+
+youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+
+
+*$script,redirect-rule=noop.js,domain=nekopoi.care
+nekopoi.care##+js(addEventListener-defuser, , adsense)
+nekopoi.care##+js(abort-current-script, atob, tabunder)
+nekopoi.care##+js(set-constant, popjs, noopFunc)
+nekopoi.care##dom
+
+! 2022-11-02 https://nekopoi.care
+nekopoi.care##.leftarea
+nekopoi.care##.adsgen1
+||st.chatango.com/h5/gz/r0817221641/id.html$subdocument
+nekopoi.care##div.side:nth-of-type(2)
+nekopoi.care###header > .center
+
+
+
+
+
+! 2022-04-15 https://westmanga.info
+||st.chatango.com/h5/gz/r1101210814/id.html$subdocument
+westmanga.info##div.kln:nth-of-type(2)
+westmanga.info###footer
+westmanga.info##div.section.widget_text > .custom-html-widget.textwidget
+!||westmanga.info/wp-content/uploads/2021/01/1610740523-9429-Astrid.jpg$image
+
+! 2022-04-15 https://westmanga.info
+westmanga.info##div.section.widget_text > .releases
+westmanga.info##div.kln:nth-of-type(3)
+westmanga.info##div.kln:nth-of-type(6)
+westmanga.info##.chaptertags
+westmanga.info##.chdesc > p
+
+! 2022-04-15 https://kiryuu.id
+! 2022-07-22 https://kiryuu.id
+kiryuu.id##.rnavbot.readingnav
+kiryuu.id##.wrapper > center
+kiryuu.id##div.bixbox:nth-of-type(6)
+kiryuu.id##div.section.widget_text:nth-of-type(1)
+kiryuu.id##div.section.widget_text:nth-of-type(4)
+kiryuu.id###footer
+kiryuu.id##div.section.widget_text > .custom-html-widget.textwidget
+kiryuu.id##div.section:nth-of-type(2)
+
+
+
+! 2022-04-15 https://gabutscans.com
+gabutscans.com##div.section.widget_text:nth-of-type(3)
+gabutscans.com##div.section.widget_text:nth-of-type(1)
+gabutscans.com##div.section.widget_text:nth-of-type(2)
+gabutscans.com##div.section:nth-of-type(6)
+gabutscans.com##div.kln:nth-of-type(1)
+gabutscans.com###footer
+gabutscans.com##.swiper-wrapper
+gabutscans.com##div.kln:nth-of-type(3)
+
+! 2022-04-15 https://www.maid.my.id
+www.maid.my.id##.content > .iniiklan
+www.maid.my.id##.container > .iniiklan
+www.maid.my.id##.ads
+www.maid.my.id##footer
+www.maid.my.id##.notif
+www.maid.my.id##.iniiklan
+www.maid.my.id###disqus_recommendations
+
+! 2022-04-15 https://meownime.moe
+meownime.moe###footer-area
+
+! 2022-04-15 https://www.bilibili.com
+www.bilibili.com##.new-stat-module
+www.bilibili.com##.align-top-left.block-right
+www.bilibili.com##.international-footer
+www.bilibili.com##.b-wrap.first-screen
+www.bilibili.com###bili_live > .b-wrap.banner-card
+www.bilibili.com##.live-tabs
+www.bilibili.com###bili_report_anime > div.space-between
+
+! 2022-04-16 https://www.pixiv.net
+www.pixiv.net###logWrap
+
+! 2022-04-18 https://www.pixiv.net
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(12)
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(13)
+
+! 2022-04-20 https://194.163.183.129
+194.163.183.129##[href="https://388herobig.com/"]
+194.163.183.129##.box_item_berlangganan_popup
+
+! 2021-12-12 https://www.recaptcha.net
+||fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4.woff2$font,domain=www.recaptcha.net
+
+! 2021-12-12 https://exey.io
+exey.io##p
+exey.io##.text-center
+exey.io##.captcha-check.alert-light.alert
+exey.io###footer
+
+! 2021-12-12 http://45.63.23.4
+45.63.23.4###fixedban
+
+! 2021-12-12 https://exey.io
+
+! 2021-12-12 https://www108.zippyshare.com
+zippyshare.com##[href="//www.zippyshare.com/"]
+zippyshare.com##.outer_menu
+zippyshare.com##.slickbox
+zippyshare.com##canvas
+zippyshare.com###bottom
+zippyshare.com##.video-share
+zippyshare.com##.login
+zippyshare.com###lrbox > div > font
+!www.zippyshare.com##div.center > div > font
+
+! 2021-12-12 https://www113.zippyshare.com
+||cdn.plyr.io/3.6.2/plyr.svg$xhr,domain=zippyshare.com
+
+! 2021-12-12 https://brainly.co.id
+brainly.co.id##.sg-overlay
+brainly.co.id##.brn-header-container
+
+! 2022-03-21 https://brainly.co.id
+brainly.co.id##.TextbooksOneToOneAnswerLayout-module__container--3qKw4.sg-box--no-border-radius.sg-box--white.sg-box
+brainly.co.id##.LookingForMoreBanner-module__banner--3di25
+brainly.co.id##.TextbooksQAEntryPointFilterOptions-module__container--2HG7b.sg-box--padding-l.sg-box--white.sg-box
+brainly.co.id##.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.js-react-newest-questions > div
+brainly.co.id##.js-ads-screening-footer.js-page-footer.js-react-app-footer
+brainly.co.id##.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.js-react-newest-questions > div
+brainly.co.id##.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.js-react-below-answers > div > div
+brainly.co.id##.TextbooksQAEntryPointFilterOptions-module__container--2HG7b.sg-box--padding-l.sg-box--white.sg-box
+brainly.co.id##.brn-footer
+
+! 2021-12-12 https://50.28.102.151
+||50.28.102.151^$1p
+
+! 2021-12-12 https://178.128.26.105
+||media.fastchecker.us^
+||178.128.26.105^$1p
+
+! 2021-12-12 https://disqus.com
+||connect.facebook.net/en_US/sdk.js?hash=63a66cdac6b018600ee5f8e56bee29a2$script,domain=disqus.com
+
+! 2021-12-12 https://www.google.com
+||www.gstatic.com/recaptcha/api2/logo_48.png$image,domain=www.google.com
+
+! 2021-12-12 https://accounts.google.com
+||accounts.google.com/o/oauth2/iframerpc?action=checkOrigin&origin=https%3A%2F%2Fdisqus.com&client_id=508198334196-bgmagrg0a2rub674g0shidj8fnd50dji.apps.googleusercontent.com$xhr,domain=accounts.google.com
+||accounts.google.com/o/oauth2/iframerpc?action=listSessions&client_id=508198334196-bgmagrg0a2rub674g0shidj8fnd50dji.apps.googleusercontent.com&origin=https%3A%2F%2Fdisqus.com&scope=profile%20email&ss_domain=https%3A%2F%2Fdisqus.com$xhr,domain=accounts.google.com
+
+! 2021-12-12 https://dood.sh
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LeA9cEaAAAAAD2Mbn-AokIm8cCE5JQVg4stzU4a&co=aHR0cHM6Ly9kb29kLnNoOjQ0Mw..&hl=id&v=rPvs0Nyx3sANE-ZHUN-0nM85&size=invisible&cb=5vy4okgqqt1q$subdocument,domain=dood.sh
+
+! 2021-12-12 https://www.google.com
+||www.google.com/recaptcha/api2/webworker.js?hl=id&v=rPvs0Nyx3sANE-ZHUN-0nM85$script,domain=www.google.com
+
+! 2021-12-12 https://disqus.com
+||accounts.google.com/o/oauth2/iframe$subdocument,domain=disqus.com
+
+! 2021-12-12 https://accounts.google.com
+||ssl.gstatic.com/accounts/o/526826501-idpiframe.js$script,domain=accounts.google.com
+
+! 2021-12-12 https://www.google.com
+||www.gstatic.com/recaptcha/releases/rPvs0Nyx3sANE-ZHUN-0nM85/styles__ltr.css$stylesheet,domain=www.google.com
+
+! 2021-12-12 https://dood.la
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6Lef8cEaAAAAAPGJqkWyqZ0IHW0IFz1UumdTT0y6&co=aHR0cHM6Ly9kb29kLmxhOjQ0Mw..&hl=id&v=rPvs0Nyx3sANE-ZHUN-0nM85&size=invisible&cb=qsqlrvqayw9l$subdocument,domain=dood.la
+
+! 2021-12-13 https://brainly.co.id
+brainly.co.id##.TextbooksOneToOneAnswerLayout-module__container--3qKw4.sg-box--no-border-radius.sg-box--light.sg-box
+
+! 2021-12-13 https://www.slideshare.net
+www.slideshare.net##.scribd-ad-exit-modal
+
+! 2021-12-13 https://www.kompasiana.com
+www.kompasiana.com##.dm-show-player.dm-player
+
+! 2021-12-13 https://www.scribd.com
+www.scribd.com##.modal
+www.scribd.com##.modal_wrapper
+
+! 2021-12-13 https://www.kompas.com
+www.kompas.com###ivsplayer01-container
+www.kompas.com##p:nth-of-type(6)
+www.kompas.com##.nwsLetter-article
+www.kompas.com##.js-giant-wp-sticky-parent.clearfix.col-offset-fluid.row > .col-bs10-3
+www.kompas.com##p:nth-of-type(14)
+www.kompas.com##p:nth-of-type(21)
+www.kompas.com##p:nth-of-type(28)
+www.kompas.com##.clearfix > p > strong
+||asset.kompas.com/crops/661vhtTDiii3Bc8jgCTm6NdaO6c=/x/data/2018/kompascom/images/offline_img.jpg$image
+
+! 2021-12-13 https://www.academia.edu
+www.academia.edu##div:nth-of-type(11)
+www.academia.edu##.in.modal-backdrop
+
+! 2021-12-13 https://edukasi.okezone.com
+edukasi.okezone.com##p:nth-of-type(3), p:nth-of-type(5), p:nth-of-type(4), #rightside, .widget-rekomendasi
+edukasi.okezone.com##div.clearfix:nth-of-type(12)
+edukasi.okezone.com##.slide-related.widget-next
+edukasi.okezone.com##.footer-main
+edukasi.okezone.com##.ga_Indeks
+edukasi.okezone.com##.widget-share > .detail-control-hr
+edukasi.okezone.com##.footer-bottom
+edukasi.okezone.com##.widget-share
+edukasi.okezone.com##.footer-middle
+edukasi.okezone.com##.sticky.container-top3-nav
+edukasi.okezone.com##.sosvertikal
+edukasi.okezone.com##.center-block > .detail-control-hr
+edukasi.okezone.com##.newtag.detail-tag
+
+! 2021-12-13 https://binus.ac.id
+binus.ac.id###binus-header-wrapper
+binus.ac.id###header-top-navigation
+
+! 2021-12-13 https://www.detik.com
+www.detik.com##.lihatjg
+www.detik.com##.video20detik_0.itp_gambas_video.ratiobox--16-9.ratiobox.sisip_video_ds
+www.detik.com##p > strong
+www.detik.com##.mgt-16.detail__body-tag
+www.detik.com##.mgt-16.content__bg.grid-row > .column-4
+www.detik.com##.cb-berita-terkait.box
+www.detik.com##.cb-rekomendasi.box
+www.detik.com##.cb-artikel-lainnya.box
+www.detik.com##.komentar_box.box
+www.detik.com##.footer
+www.detik.com##.detail > .share-box.flex-between
+www.detik.com##.gtm_framebardc_search.pull-left.dtkframebar__search
+www.detik.com##.framebar-desktop
+www.detik.com##.detail__header > .share-box.flex-between
+www.detik.com##.header > .container
+
+! 2021-12-13 https://brainly.co.id
+brainly.co.id##.brn-qpage-next-answer-box__buttons > .Tooltip-module__brn-tooltip-container--tq9gl > .Tooltip-module__brn-tooltip-box--top-start-arrow-only--2w_Ot.Tooltip-module__brn-tooltip-box--1H7_q
+
+! 2021-12-13 https://indomaritim.id
+indomaritim.id##.pos-sticky.col-md-sb-r.widget-area
+indomaritim.id##.pos-sticky.col-md-sgl-r
+indomaritim.id##strong
+
+! 2021-12-13 https://tirto.id
+tirto.id##.mb-5.mt-5.row
+tirto.id##div.mt-5.row:nth-of-type(8)
+||gold.tirto.id/1a44ef757654e3150e462af37f5150cb/embed/iframe/podcast$subdocument
+tirto.id##.p-5.bg-black-footer.container-fluid
+tirto.id##[src="https://gold.tirto.id/1a44ef757654e3150e462af37f5150cb/embed/iframe/podcast"]
+tirto.id##div.content-text-editor > div
+
+! 2021-12-13 https://jogja.suara.com
+jogja.suara.com##.column--right
+jogja.suara.com##.new-header
+jogja.suara.com##.main-wrapper.wrapper > .pull-left
+jogja.suara.com##.placeholder_leaderboard
+jogja.suara.com##.title--secondary
+jogja.suara.com##p.baca-juga-new:nth-of-type(5)
+jogja.suara.com##p.baca-juga-new:nth-of-type(11)
+jogja.suara.com##div.placeholder_read_body:nth-of-type(4)
+jogja.suara.com##div.placeholder_read_body:nth-of-type(5)
+jogja.suara.com##.widget--listBig
+jogja.suara.com##div.h10.reset:nth-of-type(13)
+jogja.suara.com##div.mt15.suara-list-posts-carousel-2-widget.widget > .widget-content
+jogja.suara.com##.gr.title--list-regional
+jogja.suara.com##.clearfix.widget--grid3
+jogja.suara.com##body > footer
+jogja.suara.com##.mt20.icon-social-widget
+jogja.suara.com##.mt20.tagDetailList
+jogja.suara.com##.mt20.title--primary
+jogja.suara.com##div.mt10.title--primary:nth-of-type(11)
+jogja.suara.com##div.mt10.title--primary:nth-of-type(14)
+jogja.suara.com##div.placeholder_read_body:nth-of-type(2)
+
+! 2021-12-13 https://katadata.co.id
+katadata.co.id##.sticky.header-sticky.mb-3.pt-3.header
+katadata.co.id##div.rounded.widget-baca-juga:nth-of-type(8)
+katadata.co.id##.flying_carpet_show
+katadata.co.id##div.rounded.widget-baca-juga:nth-of-type(9)
+katadata.co.id##.mb-5.section-video-pilihan > .section__content.row
+katadata.co.id##.mb-5.section-list-terkait
+katadata.co.id##.pb-4.footer
+katadata.co.id##.mb-5.sidebar.col-lg-4.col-md-5.col-sm-12
+katadata.co.id##div.rounded.widget-baca-juga:nth-of-type(4)
+katadata.co.id##.my-4.detail-tags
+katadata.co.id##.mb-5.widget-newsletter
+katadata.co.id##.mb-5.section-video-pilihan
+katadata.co.id###header
+katadata.co.id##.mb-4.pb-3.border-bottom
+
+! 2021-12-13 https://123dok.com
+123dok.com##.sm\:px-3.lg\:col-span-3.col-span-12
+123dok.com###fulltext-content
+123dok.com##div.text-left.md\:mt-5.px-3.mt-3.block:nth-of-type(4)
+123dok.com##div.text-left.md\:mt-5.px-3.mt-3.block:nth-of-type(5)
+123dok.com##.lg\:block.hidden.sm\:px-3.mt-5
+123dok.com###reference-content
+123dok.com###figure-content
+123dok.com##.border-gray-400.border-solid.border-t.mt-16.pb-5.bottom-0.w-full.bg-white
+
+! 2021-12-13 https://www.liputan6.com
+www.liputan6.com##.container-aside
+www.liputan6.com##.baca-juga-collections
+www.liputan6.com##div.article-content-body__item-page > .baca-juga-collections__detail
+www.liputan6.com##.relateds-slow
+www.liputan6.com##footer
+www.liputan6.com##.read-page--engagement
+www.liputan6.com##.baca-juga
+www.liputan6.com##.tags--snippet
+www.liputan6.com##.fixed-header_slim.fixed-header.site-header
+www.liputan6.com##.fixed-header.site-header
+www.liputan6.com##.top.read-page--social-share
+
+! 2021-12-13 https://www.ruangguru.com
+www.ruangguru.com##.page-center-sticky.normalize-css.sidebar-populer.widget-type-cell.widget-span.span3
+www.ruangguru.com##.footer
+www.ruangguru.com##.normalize-css.artikel-lainnya
+www.ruangguru.com##.share-widget
+
+! 2021-12-13 https://pahamify.com
+pahamify.com##.elementor-inner-column.elementor-col-50.elementor-column.elementor-hidden-phone.elementor-element-dd662a4.elementor-element
+pahamify.com##.elementor-top-column.elementor-col-50.elementor-column.elementor-element-ff889e5.elementor-element > .elementor-element-populated.elementor-column-wrap
+pahamify.com##.elementor-location-single.elementor-8513.elementor
+pahamify.com##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+
+! 2021-12-13 https://penerbitbukudeepublish.com
+penerbitbukudeepublish.com##.elementor-widget-container > .addtoany_content_top.addtoany_content.addtoany_share_save_container
+
+! 2021-12-13 https://westmanga.info
+westmanga.info##div.kln:nth-of-type(2)
+
+! 2021-12-14 https://mkh.sch.id
+mkh.sch.id##div:nth-of-type(4)
+
+! 2021-12-17 http://dwigunauncp.blogspot.com
+dwigunauncp.blogspot.com###sidewrapper
+
+! 2021-12-18 https://www.youtube.com
+
+! 2021-12-18 https://westmanga.info
+westmanga.info##div.kln:nth-of-type(3)
+
+! 2021-12-18 https://194.163.183.129
+194.163.183.129##.footer-top
+
+! 2021-12-19 https://www.youtube.com
+!www.youtube.com##.yt-live-chat-viewer-engagement-message-renderer.style-scope
+
+! 2021-12-19 http://usfinf.net
+usfinf.net###_bd
+usfinf.net##.black_overlay
+usfinf.net###cookie_notice
+usfinf.net###bottom
+
+! 2022-04-21 https://www.youtube.com
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###chatframe:style(height:100px !important;)
+
+manhwaindo.id##.home-genres:style(background: black !important;)
+manhwaindo.id##.genre-listx a :style(color: #FFFFFF !important;)
+! 2022-04-22 https://hentaiprn.com
+hentaiprn.com###UnderplayerP
+hentaiprn.com##.alert.messagge
+hentaiprn.com###footer
+
+! 2022-04-24 https://62.182.83.93
+62.182.83.93##.sidebar
+
+62.182.83.93###popup_bawah
+62.182.83.93##div#judi2:nth-of-type(12)
+62.182.83.93##div#judi2:nth-of-type(13)
+62.182.83.93##div#judi2:nth-of-type(14)
+62.182.83.93##div#judi2:nth-of-type(15)
+62.182.83.93##[href="https://144.126.241.203/invite/c6c83up"]
+62.182.83.93###coloma
+62.182.83.93###popup_box
+62.182.83.93###footer
+
+! 2022-04-28 https://ao.caracek.net
+ao.caracek.net##.wrapper-2
+ao.caracek.net##footer
+ao.caracek.net##header
+
+! 2022-05-02 https://manhwaindo.id
+!manhwaindo.id##h4
+manhwaindo.id##.rnavbot.readingnav
+manhwaindo.id##div.kln > [href="https://manhwaindo.id/"]
+manhwaindo.id##.centerpaging
+manhwaindo.id##body :style(background:black !important;)
+manhwaindo.id##.bigbanner
+
+manhwaindo.id##div.bixbox:nth-of-type(6)
+manhwaindo.id##.footercopyright
+
+! 2022-04-15 https://komikcast.com
+! 2022-07-18 https://komikcast.me
+
+komikcast.site###id-custom_banner
+komikcast.site##div.section:nth-of-type(1)
+komikcast.site##div.section:nth-of-type(2)
+komikcast.site##div.section:nth-of-type(3)
+komikcast.site##.custom-html-widget.textwidget
+komikcast.site###footer, .fm
+komikcast.site##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
+komikcast.site##body.darkmode :style(background: #000000 !important;)
+komikcast.site##.centernav :style(background:#16151d!important;)
+komikcast.site##.listupd :style(background:#16151d !important; )
+
+! 2022-05-03 https://coolors.co
+coolors.co##.is-visible.modal--l.modal
+
+www2.javhdporn.net###content.site-content.row :style(background: #353840 !important;)
+www2.javhdporn.net##.thumb-block .entry-header :style(color: #ffffff !important;)
+www2.javhdporn.net##ul#breadcrumbs.breadcrumbs :style(background: #8d99ae !important;color: #ffffff !important;)
+
+! 2022-05-03 https://www2.javhdporn.net
+www2.javhdporn.net##.site-footer
+
+! 2022-05-05 https://www.pocketgamer.com
+www.pocketgamer.com##.fixed.sidebar
+
+! 2022-05-11 https://10fastfingers.com
+10fastfingers.com###ez-video-wrap-891d9213102596926087256b1297b32ab1515b84
+
+! 2022-05-12 https://manhwaindo.id
+manhwaindo.id##.kln.mlb.blox
+
+! 2022-05-15 https://westmanga.info
+westmanga.info###readerarea-loading
+
+! 2022-05-16 https://linkpoi.me
+linkpoi.me##.label-success.label
+linkpoi.me##.label-info.label
+linkpoi.me##.label-primary.label
+linkpoi.me##.label-danger.label
+linkpoi.me##.label-default.label
+linkpoi.me##b
+linkpoi.me##div.panel-body.panel-default.panel:nth-of-type(4)
+
+meganei.net##body.custom-background, .site-content, .small-archive-post,.wp-block-columns,.download-box,.detail-komik-box :style(background-color: #000000 !important; color:#FFFFFF !important;)
+meganei.net##.entry-header,.manga-dwnld, #disqus_thread  :style(background-color: #000000 !important; )
+meganei.net##.entry-title a:link, .entry-title a:visited,ul li span,b :style(color: #FFFFFF !important; )
+meganei.net##em, .entry-header,.entry-title :style(color: #FFFFFF !important; )
+
+! 2022-05-16 https://meganei.net
+meganei.net###custom_html-213
+meganei.net##.spacing-square-2
+meganei.net##.bottom-note-box
+
+! 2022-05-17 https://hentaiworld.tv
+!hentaiworld.tv###masthead
+hentaiworld.tv##.g3mMAqDz
+hentaiworld.tv##.b43JfD1M > video
+hentaiworld.tv##.l8Gh96GN > video
+hentaiworld.tv##div:nth-of-type(8)
+hentaiworld.tv##.a2PV8WPO > video
+hentaiworld.tv###footer
+
+! 2022-05-23 https://yoshare.net
+yoshare.net##.content-sidebar-wrap
+yoshare.net##.site-footer
+yoshare.net##.site-header
+
+! 2022-05-23 https://droplink.co
+droplink.co##.text-left
+droplink.co##footer
+droplink.co##.navbar-default.navbar
+
+! 2022-05-24 https://hentai.io
+hentai.io##.script_manager_video_master
+
+! 2022-05-25 https://vsthemes.org
+vsthemes.org##.xxdxc21
+
+! 2022-05-27 https://ctbl.me
+ctbl.me##h2
+||ctbl.me/gain_theme/assets/images/banner/banner-bg.jpg$image
+ctbl.me##.header-section
+ctbl.me##.page-header
+ctbl.me##.mt-5.padding-top.footer-section
+
+! 2022-05-27 https://antonimos.de
+antonimos.de##h2:nth-of-type(1)
+antonimos.de##h2:nth-of-type(2)
+antonimos.de##p
+antonimos.de##h2
+antonimos.de##h3
+antonimos.de##[href="https://ctr.sh/ref/ezlinksbanner"] > h1
+
+! 2022-05-27 http://www.solidfiles.com
+www.solidfiles.com##article.box:nth-of-type(2)
+www.solidfiles.com##.premium-promo.box
+
+! 2022-05-29 https://ctbl.me
+ctbl.me##.col-xs-9
+
+! 2022-05-29 https://tkcounter.com
+tkcounter.com##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-30
+
+! 2022-05-31 https://sektekomik.com
+sektekomik.com###container_auto_movable_0031003400340039003000330035
+
+! 2022-05-31 https://komiku.id
+komiku.id##.botmenu > .loading
+
+! 2022-06-01 https://masterkomik.com
+masterkomik.com##.rnavbot.readingnav
+masterkomik.com##div.section.widget_text:nth-of-type(2)
+masterkomik.com##div.section.widget_text:nth-of-type(1)
+masterkomik.com##.restrictcontainer
+
+! 2022-06-01 https://158.69.0.201
+158.69.0.201###top-banner
+158.69.0.201##.content.row > .custom-html-widget.textwidget
+158.69.0.201###ptbanner
+158.69.0.201###bawah-player-1
+158.69.0.201###middle-banner
+
+! 2022-06-01 https://10fastfingers.com
+10fastfingers.com##.ez-video-center
+
+newtab###bgimage.c011 :style(background-color : black !important; )
+
+! 2022-06-07 https://brainly.co.id
+brainly.co.id##.js-aside-content.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.brn-qpage-layout__right-top--full-height
+||brainly.co.id/graphql/id?operationName=UserAttributes&variables=%7B%22userId%22%3A17252094%2C%22timeZone%22%3A%22Asia%2FTokyo%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2291253623b84ba0b27a554e7abe005fe2271b25cc8bef66d542f2f7dd3efde7ec%22%7D%7D$xhr,1p
+||brainly.co.id/graphql/id?operationName=UserAttributes&variables=%7B%22userId%22%3A21578352%2C%22timeZone%22%3A%22Asia%2FTokyo%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2291253623b84ba0b27a554e7abe005fe2271b25cc8bef66d542f2f7dd3efde7ec%22%7D%7D$xhr,1p
+
+! 2022-07-08 https://komikav.com
+komikav.com##.custom-html-widget.textwidget
+
+! 2022-07-11 https://komikindo.id
+komikindo.id##.nvb
+! 2022-11-03 https://komikindo.id
+komikindo.id##iframe:nth-of-type(3)
+komikindo.id##.iklnch.kln.set
+komikindo.id###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
+
+
+
+
+! 2022-08-05 http://62.171.176.78
+62.171.176.78##.kln.mlb.blox
+62.171.176.78##div.kln:nth-of-type(3)
+
+! 2022-08-05 https://tukangkomik.com
+tukangkomik.com##.rnavbot.readingnav
+tukangkomik.com##.rnavtop.readingnav
+
+! 2022-08-06 https://hentaiworld.tv
+hentaiworld.tv##.secondary-nav
+
+! 2022-08-06 https://erotic-hentai.com
+erotic-hentai.com##.adde_modal_detector-show.adde_modal_detector
+erotic-hentai.com##.active.adde_modal-overlay
+
+! 2022-08-06 https://hentaiworld.tv
+hentaiworld.tv##.ast-footer-row-mobile-stack.ast-footer-row-tablet-stack.ast-footer-row-stack.ast-builder-grid-row-mobile-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-full.site-footer-focus-item.ast-builder-grid-row-container.site-above-footer-wrap
+hentaiworld.tv##.clear.entry-content > p
+hentaiworld.tv##.floating-banner
+
+! 2022-08-10 https://hentaiworld.tv
+hentaiworld.tv##.home-header-intro
+hentaiworld.tv##.ast-footer-row-mobile-stack.ast-footer-row-tablet-stack.ast-footer-row-stack.ast-builder-grid-row-mobile-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-full.site-footer-focus-item.ast-builder-grid-row-container.site-primary-footer-wrap
+
+! 2022-08-11 https://komiku.com
+komiku.com##.rnavbot.readingnav
+
+! 2022-08-22 http://173.82.166.13
+173.82.166.13##.happy-under-player
+
+! 2022-08-22 https://bokep1.com
+bokep1.com##.happy-under-player
+
+! 2022-08-22 https://mdtaiwan.com
+mdtaiwan.com##.happy-under-player
+
+! 2022-08-31 https://hentaiworld.tv
+hentaiworld.tv###imagead
+
+! 2022-11-02 https://194.163.183.129
+194.163.183.129###floatbottom
+194.163.183.129##[src="https://194.163.183.129/wp-content/uploads/2022/09/samehada-RI-final.gif"]
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsE*/s720/*samehada*.gif$image
+194.163.183.129##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQI7h-ILH5nlzQ6qX4Ll9om9CuajovZ01iwF8tX7GdGPxXaCmIzy5MJ6CjdSJUte044MjKmk9tJ5_H4OVkqhW8orhM8UhKis2mR00s-SxNAqARA0RdREC1BUcYyOkIGxQVREyAh9yM1h0tReffTGIiuQ2E2IKbc0R3OLG8HfePTK59d230Zmpe4wDaA/s720/fin"]
+194.163.183.129##[href="http://www.70284385.com/id-id/betting.aspx"]
+194.163.183.129##[href="https://www.gokkenroyale777.com/"]
+194.163.183.129###overplay
+194.163.183.129##[href="https://bit.ly/3RhMDc1"]
+
+! 2022-11-02 https://www.youtube.com
+www.youtube.com###cinematics
+
+! 2022-11-02 https://immaku.com
+immaku.com##.size-full.wp-image-111636.alignnone
+
+! 2022-11-07 https://anoboy.lol
+anoboy.lol##.sidebar
+anoboy.lol###navigasi
+
+! 2022-11-09 https://komikcast.net
+komikcast.net##.nvb
+
+! 2022-11-16 https://masterkomik.com
+masterkomik.com###teaser3 > div
+
+! 2022-11-17 https://www2.javhdporn.net
+||pics.pornfhd.com/storage73000/file/234/23365558/1667677731.47.jpg$image
+
+! 2022-11-17 https://video.javhdporn.net
+video.javhdporn.net##.video-container
+
+! 2022-11-25 https://sheakomik.com
+sheakomik.com###teaser3 > .kln.blox
+sheakomik.com##.kln.mlb.blox
+sheakomik.com##div.kln:nth-of-type(1)
+sheakomik.com###teaser3 > div
+sheakomik.com##.info-right > .kln
+sheakomik.com###post-56735 > .kln
+sheakomik.com###post-117 > .kln
+sheakomik.com##div.kln:nth-of-type(3)
+sheakomik.com##div.kln:nth-of-type(4)
+||mangareader.themesia.com/wp-content/uploads/2020/12/rn728.png$image
+
+! 2022-11-25 http://62.171.176.78
+62.171.176.78###teaser3 > .kln.blox
+62.171.176.78###teaser3 > div
+
+! 2022-11-25 http://45.67.230.75
+45.67.230.75###fixedban
+
+! 2022-11-26 http://127.0.0.1:5500
+127.0.0.1##.w-100.h-100.justify-content-center.align-items-center .d-flex.portfolio-item-caption
+127.0.0.1##.mb-lg-0.mb-5.col-lg-4.col-md-6 > .mx-auto.portfolio-item > .w-100.h-100.justify-content-center.align-items-center.d-flex
+
+! 2022-11-27 http://127.0.0.1:5500
+
+! 2022-11-28 http://127.0.0.1:5500
+127.0.0.1##div.col:nth-of-type(8)
+
