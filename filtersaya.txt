@@ -637,13 +637,3 @@ sheakomik.com##div.kln:nth-of-type(4)
 
 ! 2022-11-25 http://45.67.230.75
 45.67.230.75###fixedban
-
-! 2022-11-26 http://127.0.0.1:5500
-127.0.0.1##.w-100.h-100.justify-content-center.align-items-center .d-flex.portfolio-item-caption
-127.0.0.1##.mb-lg-0.mb-5.col-lg-4.col-md-6 > .mx-auto.portfolio-item > .w-100.h-100.justify-content-center.align-items-center.d-flex
-
-! 2022-11-27 http://127.0.0.1:5500
-
-! 2022-11-28 http://127.0.0.1:5500
-127.0.0.1##div.col:nth-of-type(8)
-
