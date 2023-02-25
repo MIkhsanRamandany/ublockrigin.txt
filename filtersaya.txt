@@ -637,3 +637,37 @@ sheakomik.com##div.kln:nth-of-type(4)
 
 ! 2022-11-25 http://45.67.230.75
 45.67.230.75###fixedban
+
+
+
+! 2023-01-22 https://samehadaku.win
+samehadaku.win###floatcenter
+samehadaku.win##[href="https://klik.fun/Rtsys"]
+samehadaku.win##[href="http://tembus.xyz/samehadaku"]
+samehadaku.win##[href="https://www.royaleinfinity888.com/id-ID/Home"]
+samehadaku.win##[href="https://gokkenroyale888.com/"]
+samehadaku.win##[href="https://www.royaleboss888.com/id-ID/Home"]
+samehadaku.win###floatbottom
+samehadaku.win###overplay
+
+! 2023-01-29 https://hentaiplay.net
+hentaiplay.net###video_overlays
+
+! 2023-02-03 https://rotator.nurul-huda.sch.id
+rotator.nurul-huda.sch.id##.awesome
+
+! 2023-02-24 https://kanse.com
+kanse.com##.spot_nav_under_ad > center
+kanse.com##.float-left
+
+! 2023-02-24 https://www.sese277.info
+||www.sese277.info/*.gif$image
+www.sese277.info##[href="https://sujrq8.com"]
+www.sese277.info##div.content:nth-of-type(2)
+
+! 2023-02-24 https://komikcast.net
+komikcast.net##.second-nav.floating-nav
+komikcast.net##.gambar_pemanis
+komikcast.net##.form-contol
+
+
