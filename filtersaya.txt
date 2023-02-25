@@ -669,5 +669,6 @@ www.sese277.info##div.content:nth-of-type(2)
 komikcast.net##.second-nav.floating-nav
 komikcast.net##.gambar_pemanis
 komikcast.net##.form-contol
+komikcast.net##.chapter-content > [href="https://ph88.link/anime"]
 
 
