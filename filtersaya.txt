@@ -539,11 +539,11 @@ brainly.co.id##.js-aside-content.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.brn
 komikav.com##.custom-html-widget.textwidget
 
 ! 2022-07-11 https://komikindo.id
-komikindo.id##.nvb
+komikindo.pro##.nvb
 ! 2022-11-03 https://komikindo.id
-komikindo.id##iframe:nth-of-type(3)
-komikindo.id##.iklnch.kln.set
-komikindo.id###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
+komikindo.pro##iframe:nth-of-type(3)
+komikindo.pro##.iklnch.kln.set
+komikindo.pro###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
 
 
 
