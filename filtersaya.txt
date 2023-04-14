@@ -671,4 +671,7 @@ komikcast.net##.gambar_pemanis
 komikcast.net##.form-contol
 komikcast.net##.chapter-content > [href="https://ph88.link/anime"]
 
+! 2023-04-14 https://komikindo.pro
+komikindo.pro##.gambar_pemanis
+komikindo.pro##.second-nav.floating-nav
 
