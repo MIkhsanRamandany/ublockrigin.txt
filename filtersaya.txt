@@ -1,3 +1,5 @@
+komikcast.site##.kln
+
 ! 2022-11-02 https://www.youtube.com
 www.youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope
 ! 2022-11-02 https://www.youtube.com
