@@ -1,5 +1,3 @@
-
-! 2022-04-15 https://kiryuu.id
 ! 2022-07-22 https://kiryuu.id
 kiryuu.id##.rnavbot.readingnav
 kiryuu.id##.wrapper > center
@@ -9,8 +7,6 @@ kiryuu.id##div.section.widget_text:nth-of-type(4)
 kiryuu.id###footer
 kiryuu.id##div.section.widget_text > .custom-html-widget.textwidget
 kiryuu.id##div.section:nth-of-type(2)
-
-
 
 ! 2022-04-15 https://gabutscans.com
 gabutscans.com##div.section.widget_text:nth-of-type(3)
@@ -65,22 +61,6 @@ exey.io###footer
 
 ! 2021-12-12 http://45.63.23.4
 45.63.23.4###fixedban
-
-! 2021-12-12 https://exey.io
-
-! 2021-12-12 https://www108.zippyshare.com
-zippyshare.com##[href="//www.zippyshare.com/"]
-zippyshare.com##.outer_menu
-zippyshare.com##.slickbox
-zippyshare.com##canvas
-zippyshare.com###bottom
-zippyshare.com##.video-share
-zippyshare.com##.login
-zippyshare.com###lrbox > div > font
-!www.zippyshare.com##div.center > div > font
-
-! 2021-12-12 https://www113.zippyshare.com
-||cdn.plyr.io/3.6.2/plyr.svg$xhr,domain=zippyshare.com
 
 ! 2021-12-12 https://brainly.co.id
 brainly.co.id##.sg-overlay
@@ -296,10 +276,8 @@ mkh.sch.id##div:nth-of-type(4)
 ! 2021-12-17 http://dwigunauncp.blogspot.com
 dwigunauncp.blogspot.com###sidewrapper
 
-
 ! 2021-12-18 https://194.163.183.129
 194.163.183.129##.footer-top
-
 
 ! 2021-12-19 http://usfinf.net
 usfinf.net###_bd
@@ -327,10 +305,7 @@ hentaiprn.com###footer
 
 ! 2022-04-28 https://ao.caracek.net
 ao.caracek.net##.wrapper-2
-ao.caracek.net##footer
-ao.caracek.net##header
-
-
+ao.caracek.net##footer, header
 
 ! 2022-05-03 https://coolors.co
 coolors.co##.is-visible.modal--l.modal
@@ -347,7 +322,6 @@ www.pocketgamer.com##.fixed.sidebar
 
 ! 2022-05-11 https://10fastfingers.com
 10fastfingers.com###ez-video-wrap-891d9213102596926087256b1297b32ab1515b84
-
 
 ! 2022-05-16 https://linkpoi.me
 linkpoi.me##.label-success.label
@@ -448,7 +422,6 @@ komikindo.pro##iframe:nth-of-type(3)
 komikindo.pro##.iklnch.kln.set
 komikindo.pro###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
 
-
 ! 2022-08-05 http://62.171.176.78
 62.171.176.78##.kln.mlb.blox
 62.171.176.78##div.kln:nth-of-type(3)
@@ -459,7 +432,6 @@ tukangkomik.com##.rnavtop.readingnav
 
 ! 2022-08-06 https://hentaiworld.tv
 hentaiworld.tv##.secondary-nav
-
 
 ! 2022-08-11 https://komiku.com
 komiku.com##.rnavbot.readingnav
@@ -502,9 +474,6 @@ video.javhdporn.net##.video-container
 ! 2022-11-25 http://45.67.230.75
 45.67.230.75###fixedban
 
-
-
-
 ! 2023-01-29 https://hentaiplay.net
 hentaiplay.net###video_overlays
 
@@ -527,7 +496,6 @@ komikindo.pro##.second-nav.floating-nav
 ! 2023-04-01 https://sinonimos.de
 sinonimos.de##.\39 2672bd77cc2832900d01176bfb202ed
 
-
 ! 2023-04-14 https://komikindo.pro
 komikindo.pro##.chapter-content > [href="https://ph88.link/anime"]
 
@@ -541,15 +509,12 @@ toonkor216.com##.mobile-banner.col-md-12, #bo_list > .clearfix
 194.163.183.129###floatbottom, [src="https://194.163.183.129/wp-content/uploads/2022/09/samehada-RI-final.gif"], [src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQI7h-ILH5nlzQ6qX4Ll9om9CuajovZ01iwF8tX7GdGPxXaCmIzy5MJ6CjdSJUte044MjKmk9tJ5_H4OVkqhW8orhM8UhKis2mR00s-SxNAqARA0RdREC1BUcYyOkIGxQVREyAh9yM1h0tReffTGIiuQ2E2IKbc0R3OLG8HfePTK59d230Zmpe4wDaA/s720/fin"], [href="http://www.70284385.com/id-id/betting.aspx"], [href="https://www.gokkenroyale777.com/"], #overplay, [href="https://bit.ly/3RhMDc1"]
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsE*/s720/*samehada*.gif$image
 
-
-
 !https://nekopoi.care
 *$script,redirect-rule=noop.js,domain=nekopoi.care
 nekopoi.care##+js(addEventListener-defuser, , adsense), +js(abort-current-script, atob, tabunder), +js(set-constant, popjs, noopFunc)
 nekopoi.care##.leftarea,.adsgen1, div.side:nth-of-type(2), #header > .center, #sidebar_right
 ||st.chatango.com/h5/gz/r0817221641/id.html$subdocument
 nekopoi.care##dom
-
 
 ! 2022-11-02 https://www.youtube.com
 www.youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope, ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2), #description-inline-expander, #cinematics
@@ -609,15 +574,9 @@ hentaiworld.tv##div:nth-of-type(8)
 hentaiworld.tv##.a2PV8WPO > video
 hentaiworld.tv###footer
 
-
 ! 2022-08-06 https://erotic-hentai.com
 erotic-hentai.com##.adde_modal_detector-show.adde_modal_detector, .active.adde_modal-overlay
 
 ! 2022-11-25 https://sheakomik.com
 sheakomik.com###teaser3 > .kln.blox, .kln.mlb.blox, div.kln:nth-of-type(1), #teaser3 > div, .info-right > .kln, #post-56735 > .kln, #post-117 > .kln, div.kln:nth-of-type(3),div.kln:nth-of-type(4)
 ||mangareader.themesia.com/wp-content/uploads/2020/12/rn728.png$image
-
-
-
-
-
