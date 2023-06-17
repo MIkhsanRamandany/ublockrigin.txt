@@ -677,3 +677,55 @@ komikcast.net##.chapter-content > [href="https://ph88.link/anime"]
 komikindo.pro##.gambar_pemanis
 komikindo.pro##.second-nav.floating-nav
 
+! 2023-03-30 https://nekopoi.care
+nekopoi.care###sidebar_right
+
+! 2023-03-31 https://drop.download
+drop.download##.container > .mb-5
+drop.download##.footer_-inner
+drop.download##form > .adsbygoogle
+drop.download##.container > ins.adsbygoogle
+drop.download##.mb-xl-7.mb-5
+drop.download##.mb-lg-7.mb-4.shadow-lg.rounded-lg.bg-white.dowload-features
+drop.download##.mb-3.text-center.h2
+drop.download##.py-3.mb-5.text-uppercase.btn-lg.rounded-pill.px-xl-5.text-white.border-0.bg-gradient-1.btn.download-btn
+
+! 2023-04-01 https://sinonimos.de
+sinonimos.de##.\39 2672bd77cc2832900d01176bfb202ed
+
+! 2023-04-06 https://minioppai.org
+minioppai.org##div#teaser3.teaser3:nth-of-type(12)
+minioppai.org##div#teaser1.teaser1:nth-of-type(11)
+minioppai.org###close-teaser > span
+minioppai.org##div.kln:nth-of-type(3)
+minioppai.org##.qwjamxynkffstdktvyzgexdjuddsdrcdmvyitxtwzjvlbzljtttqzico.zzztrlfohlrvjfnfbasuhscmdyahpkmxoditwzyrogdwmklhqljimdqzico
+||minioppai.org/wp-content/themes/moviestream/assets/img/close.png$image
+
+! 2023-04-14 https://komikindo.pro
+komikindo.pro##.chapter-content > [href="https://ph88.link/anime"]
+
+! 2023-04-16 https://www.vads.co.id
+www.vads.co.id###preloader
+
+! 2023-05-23 https://manhwaindo.id
+manhwaindo.id##.rnavbot.readingnav
+
+! 2023-05-23 https://toonkor216.com
+toonkor216.com##.mobile-banner.col-md-12
+toonkor216.com###bo_list > .clearfix
+
+! 2023-06-04 https://komikcast.site
+komikcast.site##.redesign-social
+komikcast.site##.server_select_notif
+komikcast.site##.tags
+komikcast.site###footer
+komikcast.site##.fm
+komikcast.site##.chapter_breadcrumb
+komikcast.site##.logox.site-branding
+
+! 2023-06-07 https://komikcast.site
+komikcast.site##.textwidget
+komikcast.site##div.section > .releases
+
+
+
