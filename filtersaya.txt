@@ -1,20 +1,4 @@
 
-
-
-*$script,redirect-rule=noop.js,domain=nekopoi.care
-nekopoi.care##+js(addEventListener-defuser, , adsense)
-nekopoi.care##+js(abort-current-script, atob, tabunder)
-nekopoi.care##+js(set-constant, popjs, noopFunc)
-nekopoi.care##dom
-
-! 2022-11-02 https://nekopoi.care
-nekopoi.care##.leftarea
-nekopoi.care##.adsgen1
-||st.chatango.com/h5/gz/r0817221641/id.html$subdocument
-nekopoi.care##div.side:nth-of-type(2)
-nekopoi.care###header > .center
-
-
 ! 2022-04-15 https://kiryuu.id
 ! 2022-07-22 https://kiryuu.id
 kiryuu.id##.rnavbot.readingnav
@@ -558,11 +542,14 @@ toonkor216.com##.mobile-banner.col-md-12, #bo_list > .clearfix
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsE*/s720/*samehada*.gif$image
 
 
+
 !https://nekopoi.care
 *$script,redirect-rule=noop.js,domain=nekopoi.care
 nekopoi.care##+js(addEventListener-defuser, , adsense), +js(abort-current-script, atob, tabunder), +js(set-constant, popjs, noopFunc)
 nekopoi.care##.leftarea,.adsgen1, div.side:nth-of-type(2), #header > .center, #sidebar_right
 ||st.chatango.com/h5/gz/r0817221641/id.html$subdocument
+nekopoi.care##dom
+
 
 ! 2022-11-02 https://www.youtube.com
 www.youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope, ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2), #description-inline-expander, #cinematics
