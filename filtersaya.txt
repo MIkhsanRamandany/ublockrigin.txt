@@ -416,11 +416,11 @@ brainly.co.id##.js-aside-content.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.brn
 komikav.com##.custom-html-widget.textwidget
 
 ! 2022-07-11 https://komikindo.id
-komikindo.pro##.nvb
+komikindo.one##.nvb
 ! 2022-11-03 https://komikindo.id
-komikindo.pro##iframe:nth-of-type(3)
-komikindo.pro##.iklnch.kln.set
-komikindo.pro###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
+komikindo.one##iframe:nth-of-type(3)
+komikindo.one##.iklnch.kln.set
+komikindo.one###Baca_Komik > [href="https://bit.ly/3SKtaSe"]
 
 ! 2022-08-05 http://62.171.176.78
 62.171.176.78##.kln.mlb.blox
@@ -489,15 +489,15 @@ www.sese277.info##[href="https://sujrq8.com"]
 www.sese277.info##div.content:nth-of-type(2)
 
 
-! 2023-04-14 https://komikindo.pro
-komikindo.pro##.gambar_pemanis
-komikindo.pro##.second-nav.floating-nav
+! 2023-04-14 https://komikindo.one
+komikindo.one##.gambar_pemanis
+komikindo.one##.second-nav.floating-nav
 
 ! 2023-04-01 https://sinonimos.de
 sinonimos.de##.\39 2672bd77cc2832900d01176bfb202ed
 
-! 2023-04-14 https://komikindo.pro
-komikindo.pro##.chapter-content > [href="https://ph88.link/anime"]
+! 2023-04-14 https://komikindo.one
+komikindo.one##.chapter-content > [href="https://ph88.link/anime"]
 
 ! 2023-04-16 https://www.vads.co.id
 www.vads.co.id###preloader
@@ -523,6 +523,12 @@ youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:
 www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope, #chatframe:style(height:100px !important;)
 www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 www.youtube.com###chatframe:style(height:100px !important;)
+! 2023-05-20 https://www.youtube.com
+www.youtube.com##.ytd-player.style-scope.ytp-chrome-top
+! 2023-05-21 https://www.youtube.com
+www.youtube.com###movie_player > .ytp-chrome-top
+
+hentaiplay.net###video_overlays
 
 !www.youtube.com##.yt-live-chat-viewer-engagement-message-renderer.style-scope
 !*$subdocument,3p,domain=~goo.gl|~google.com|~youtu.be|~youtube.com,badfilter
