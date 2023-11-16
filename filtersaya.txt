@@ -562,16 +562,6 @@ komikcast.vip##.listupd :style(background:#16151d !important; )
 komikcast.vip##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
 
 
-! 2023-06-04 https://komikcast.ch
-komikcast.ch##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
-komikcast.ch##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
-komikcast.ch##body.darkmode :style(background: #000000 !important;)
-komikcast.ch##.centernav :style(background:#16151d!important;)
-komikcast.ch##.listupd :style(background:#16151d !important; )
-! 2022-11-09 https://komikcast.ch
-komikcast.ch##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
-
-
 ! 2022-04-15 https://westmanga.info
 ||st.chatango.com/h5/gz/r1101210814/id.html$subdocument
 westmanga.info##div.kln:nth-of-type(2), #footer, div.section.widget_text > .custom-html-widget.textwidget, div.section.widget_text > .releases, div.kln:nth-of-type(3), div.kln:nth-of-type(6), .chapt, #readerarea-loading
