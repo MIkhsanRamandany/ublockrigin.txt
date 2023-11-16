@@ -543,14 +543,14 @@ manhwaindo.id##.kln.mlb.blox, .rnavbot.readingnav, div.kln > [href="https://manh
 !manhwaindo.id##.kln.mlb.blox
 !manhwaindo.id##.rnavbot.readingnav
 
-! 2023-06-04 https://komikcast.net
-komikcast.net##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
-komikcast.net##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
-komikcast.net##body.darkmode :style(background: #000000 !important;)
-komikcast.net##.centernav :style(background:#16151d!important;)
-komikcast.net##.listupd :style(background:#16151d !important; )
-! 2022-11-09 https://komikcast.net
-komikcast.net##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
+! 2023-06-04 https://komikcast.ch
+komikcast.ch##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
+komikcast.ch##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
+komikcast.ch##body.darkmode :style(background: #000000 !important;)
+komikcast.ch##.centernav :style(background:#16151d!important;)
+komikcast.ch##.listupd :style(background:#16151d !important; )
+! 2022-11-09 https://komikcast.ch
+komikcast.ch##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
 
 ! 2023-06-04 https://komikcast.vip
 komikcast.vip##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
