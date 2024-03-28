@@ -534,25 +534,25 @@ hentaiplay.net###video_overlays
 !www.youtube.com##.yt-live-chat-viewer-engagement-message-renderer.style-scope
 !*$subdocument,3p,domain=~goo.gl|~google.com|~youtu.be|~youtube.com,badfilter
 
-! 2022-05-02 https://manhwaindo.id
-!manhwaindo.id##h4
-manhwaindo.id##body :style(background:black !important;)
-manhwaindo.id##.home-genres:style(background: black !important;)
-manhwaindo.id##.genre-listx a :style(color: #FFFFFF !important;)
-manhwaindo.id##.kln.mlb.blox, .rnavbot.readingnav, div.kln > [href="https://manhwaindo.id/"], .centerpaging, .bigbanner, div.bixbox:nth-of-type(6), .footercopyright
-!manhwaindo.id##.kln.mlb.blox
-!manhwaindo.id##.rnavbot.readingnav
+! 2022-05-02 https://manhwaindo.net
+!manhwaindo.net##h4
+manhwaindo.net##body :style(background:black !important;)
+manhwaindo.net##.home-genres:style(background: black !important;)
+manhwaindo.net##.genre-listx a :style(color: #FFFFFF !important;)
+manhwaindo.net##.kln.mlb.blox, .rnavbot.readingnav, div.kln > [href="https://manhwaindo.net/"], .centerpaging, .bigbanner, div.bixbox:nth-of-type(6), .footercopyright
+!manhwaindo.net##.kln.mlb.blox
+!manhwaindo.net##.rnavbot.readingnav
 
-! 2023-06-04 https://komikcast.ch
-komikcast.ch##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
-komikcast.ch##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
-komikcast.ch##body.darkmode :style(background: #000000 !important;)
-komikcast.ch##.centernav :style(background:#16151d!important;)
-komikcast.ch##.listupd :style(background:#16151d !important; )
-! 2022-11-09 https://komikcast.ch
-komikcast.ch##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
-komikcast.ch##div#bannerhomefooter.col-md-6:nth-of-type(1)
-komikcast.ch##.kln
+! 2023-06-04 https://komikcast.lol
+komikcast.lol##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
+komikcast.lol##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
+komikcast.lol##body.darkmode :style(background: #000000 !important;)
+komikcast.lol##.centernav :style(background:#16151d!important;)
+komikcast.lol##.listupd :style(background:#16151d !important; )
+! 2022-11-09 https://komikcast.lol
+komikcast.lol##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
+komikcast.lol##div#bannerhomefooter.col-md-6:nth-of-type(1)
+komikcast.lol##.kln
 
 
 
