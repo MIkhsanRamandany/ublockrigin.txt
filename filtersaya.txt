@@ -519,7 +519,7 @@ nekopoi.care##dom
 
 ! 2022-11-02 https://www.youtube.com
 www.youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope, ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2), #description-inline-expander, #cinematics
-youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+!!! youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
 youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
 www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope, #chatframe:style(height:100px !important;)
 www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
