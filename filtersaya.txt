@@ -1,6 +1,6 @@
 ! hide scroll bar
-*##html:style(scrollbar-width: none !important;)
-
+!*##html:style(scrollbar-width: none !important;)
+youtube.com##html:style(scrollbar-width: none !important;)
 ||youtube.com/api/stats/qoe?
 ||https://www.youtube.com/youtubei/v1/log_event
 
