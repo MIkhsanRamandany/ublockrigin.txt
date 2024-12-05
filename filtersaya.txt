@@ -4,25 +4,25 @@ youtube.com##html:style(scrollbar-width: none !important;)
 ||youtube.com/api/stats/qoe?
 ||https://www.youtube.com/youtubei/v1/log_event
 
-! 2022-07-22 https://kiryuu.id
-kiryuu.id##.rnavbot.readingnav
-kiryuu.id##.wrapper > center
-kiryuu.id##div.bixbox:nth-of-type(6)
-kiryuu.id##div.section.widget_text:nth-of-type(1)
-kiryuu.id##div.section.widget_text:nth-of-type(4)
-kiryuu.id###footer
-kiryuu.id##div.section.widget_text > .custom-html-widget.textwidget
-kiryuu.id##div.section:nth-of-type(2)
+! 2022-07-22 https://kiryuu.*
+kiryuu.*##.rnavbot.readingnav
+kiryuu.*##.wrapper > center
+kiryuu.*##div.bixbox:nth-of-type(6)
+kiryuu.*##div.section.widget_text:nth-of-type(1)
+kiryuu.*##div.section.widget_text:nth-of-type(4)
+kiryuu.*###footer
+kiryuu.*##div.section.widget_text > .custom-html-widget.textwidget
+kiryuu.*##div.section:nth-of-type(2)
 
-! 2022-04-15 https://gabutscans.com
-gabutscans.com##div.section.widget_text:nth-of-type(3)
-gabutscans.com##div.section.widget_text:nth-of-type(1)
-gabutscans.com##div.section.widget_text:nth-of-type(2)
-gabutscans.com##div.section:nth-of-type(6)
-gabutscans.com##div.kln:nth-of-type(1)
-gabutscans.com###footer
-gabutscans.com##.swiper-wrapper
-gabutscans.com##div.kln:nth-of-type(3)
+! 2022-04-15 https://gabutscans.*
+gabutscans.*##div.section.widget_text:nth-of-type(3)
+gabutscans.*##div.section.widget_text:nth-of-type(1)
+gabutscans.*##div.section.widget_text:nth-of-type(2)
+gabutscans.*##div.section:nth-of-type(6)
+gabutscans.*##div.kln:nth-of-type(1)
+gabutscans.*###footer
+gabutscans.*##.swiper-wrapper
+gabutscans.*##div.kln:nth-of-type(3)
 
 ! 2022-04-15 https://www.maid.my.id
 www.maid.my.id##.content > .iniiklan
@@ -546,26 +546,26 @@ manhwaindo.net##.kln.mlb.blox, .rnavbot.readingnav, div.kln > [href="https://man
 !manhwaindo.net##.kln.mlb.blox
 !manhwaindo.net##.rnavbot.readingnav
 
-! 2023-06-04 https://komikcast.lol
-komikcast.lol##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
-komikcast.lol##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
-komikcast.lol##body.darkmode :style(background: #000000 !important;)
-komikcast.lol##.centernav :style(background:#16151d!important;)
-komikcast.lol##.listupd :style(background:#16151d !important; )
-! 2022-11-09 https://komikcast.lol
-komikcast.lol##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
-komikcast.lol##div#bannerhomefooter.col-md-6:nth-of-type(1)
-komikcast.lol##.kln
+! 2023-06-04 https://komikcast.*
+komikcast.*##.redesign-social, .server_select_notif, .tags, #footer, .fm, .chapter_breadcrumb, .logox.site-branding, .textwidget, div.section > .releases, .second-nav.floating-nav, .gambar_pemanis, .form-contol, .chapter-content > [href="https://ph88.link/anime"]
+komikcast.*##.darkmode #sidebar .section .genre li a :style(background:#353840 !important;)
+komikcast.*##body.darkmode :style(background: #000000 !important;)
+komikcast.*##.centernav :style(background:#16151d!important;)
+komikcast.*##.listupd :style(background:#16151d !important; )
+! 2022-11-09 https://komikcast.*
+komikcast.*##.nvb, div#bannerhomefooter.col-md-6:nth-of-type(2)
+komikcast.*##div#bannerhomefooter.col-md-6:nth-of-type(1)
+komikcast.*##.kln
 
 
 
-! 2022-04-15 https://westmanga.info
+! 2022-04-15 https://westmanga.*
 ||st.chatango.com/h5/gz/r1101210814/id.html$subdocument
-westmanga.info##div.kln:nth-of-type(2), #footer, div.section.widget_text > .custom-html-widget.textwidget, div.section.widget_text > .releases, div.kln:nth-of-type(3), div.kln:nth-of-type(6), .chapt, #readerarea-loading
-!||westmanga.info/wp-content/uploads/2021/01/1610740523-9429-Astrid.jpg$image
-westmanga.info###readerarea-loading
-westmanga.info##.chaptertags
-westmanga.info##.chdesc > p
+westmanga.*##div.kln:nth-of-type(2), #footer, div.section.widget_text > .custom-html-widget.textwidget, div.section.widget_text > .releases, div.kln:nth-of-type(3), div.kln:nth-of-type(6), .chapt, #readerarea-loading
+!||westmanga.*/wp-content/uploads/2021/01/1610740523-9429-Astrid.jpg$image
+westmanga.*###readerarea-loading
+westmanga.*##.chaptertags
+westmanga.*##.chdesc > p
 
 ! 2023-03-31 https://drop.download
 drop.download##.container > .mb-5, .footer_-inner, form > .adsbygoogle, .container > ins.adsbygoogle, .mb-xl-7.mb-5, .mb-lg-7.mb-4.shadow-lg.rounded-lg.bg-white.dowload-features, .mb-3.text-center.h2, .py-3.mb-5.text-uppercase.btn-lg.rounded-pill.px-xl-5.text-white.border-0.bg-gradient-1.btn.download-btn
@@ -574,8 +574,8 @@ drop.download##.container > .mb-5, .footer_-inner, form > .adsbygoogle, .contain
 minioppai.org##div#teaser3.teaser3:nth-of-type(12), div#teaser1.teaser1:nth-of-type(11), #close-teaser > span, div.kln:nth-of-type(3), .qwjamxynkffstdktvyzgexdjuddsdrcdmvyitxtwzjvlbzljtttqzico.zzztrlfohlrvjfnfbasuhscmdyahpkmxoditwzyrogdwmklhqljimdqzico
 ||minioppai.org/wp-content/themes/moviestream/assets/img/close.png$image
 
-! 2023-01-22 https://samehadaku.win
-samehadaku.win###floatcenter, #floatbottom, #overplay, [href="https://klik.fun/Rtsys"], [href="http://tembus.xyz/samehadaku"], [href="https://www.royaleinfinity888.com/id-ID/Home"], [href="https://gokkenroyale888.com/"], [href="https://www.royaleboss888.com/id-ID/Home"]
+! 2023-01-22 https://samehadaku.*
+samehadaku.*###floatcenter, #floatbottom, #overplay, [href="https://klik.fun/Rtsys"], [href="http://tembus.xyz/samehadaku"], [href="https://www.royaleinfinity888.com/id-ID/Home"], [href="https://gokkenroyale888.com/"], [href="https://www.royaleboss888.com/id-ID/Home"]
 
 ! 2022-08-06 https://hentaiworld.tv
 hentaiworld.tv##.ast-footer-row-mobile-stack.ast-footer-row-tablet-stack.ast-footer-row-stack.ast-builder-grid-row-mobile-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-full.site-footer-focus-item.ast-builder-grid-row-container.site-above-footer-wrap
