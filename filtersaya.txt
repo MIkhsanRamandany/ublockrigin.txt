@@ -1,8 +1,8 @@
 ! hide scroll bar
-!*##html:style(scrollbar-width: none !important;)
-youtube.com##html:style(scrollbar-width: none !important;)
-||youtube.com/api/stats/qoe?
-||https://www.youtube.com/youtubei/v1/log_event
+*##html:style(scrollbar-width: none !important;)
+!youtube.com##html:style(scrollbar-width: none !important;)
+!||youtube.com/api/stats/qoe?
+!||https://www.youtube.com/youtubei/v1/log_event
 
 ! 2022-07-22 https://kiryuu.*
 kiryuu.*##.rnavbot.readingnav
@@ -519,16 +519,16 @@ nekopoi.*##.leftarea,.adsgen1, div.side:nth-of-type(2), #header > .center, #side
 nekopoi.*##dom
 
 ! 2022-11-02 https://www.youtube.com
-youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope, ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2), #cinematics
-youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
-youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
-youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope, #chatframe:style(height:100px !important;)
-youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
-youtube.com###chatframe:style(height:100px !important;)
+!youtube.com##ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope > .ytd-metadata-row-container-renderer.style-scope, ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2), #cinematics
+!youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+!youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+!youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope, #chatframe:style(height:100px !important;)
+!youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+!youtube.com###chatframe:style(height:100px !important;)
 ! 2023-05-20 https://www.youtube.com
-youtube.com##.ytd-player.style-scope.ytp-chrome-top
+!youtube.com##.ytd-player.style-scope.ytp-chrome-top
 ! 2023-05-21 https://www.youtube.com
-youtube.com###movie_player > .ytp-chrome-top
+!youtube.com###movie_player > .ytp-chrome-top
 
 
 !www.youtube.com##.yt-live-chat-viewer-engagement-message-renderer.style-scope
@@ -601,11 +601,11 @@ sheakomik.*###teaser3 > .kln.blox, .kln.mlb.blox, div.kln:nth-of-type(1), #tease
 @@||gdplayer.ornop.org
 @@||sentry.io
 @@||cdn.jsdelivr.net/npm/devtools-detector$script,domain=imgvid.com
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+!youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+!youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+!youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+!youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+!youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
 @@||speedtest.net
 
