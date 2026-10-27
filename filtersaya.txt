@@ -659,16 +659,6 @@ yoshare.*##.content-sidebar-wrap
 yoshare.*##.site-footer
 yoshare.*##.site-header
 
-! youtube
-||googlevideo.com/videoplayback$xhr,3p,method=get,domain=youtube.com
-||googlevideo.com/videoplayback$xhr,3p,method=get,domain=youtu.be
-@@||googlevideo.com/videoplayback$xhr,3p,method=get,domain=youtube.com
-@@||googlevideo.com/videoplayback$xhr,3p,method=get,domain=youtu.be
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
 
 ! ==========================================================
